@@ -14,6 +14,6 @@
   (연습 게임 → `week-04/practice/assets/`, 내 게임 → `week-04/assets/`)
 - 출처 표기가 필요한 에셋은 그 게임 폴더의 CREDITS.md 에 적는다.
   (연습 게임 → `week-04/practice/CREDITS.md`, 내 게임 → `week-04/CREDITS.md`)
-- 답은 한국어로 한다.
+- 답은 영어로 한다. (Answer in English.)
 - 이번 주 작업은 week-04 폴더 안에서만 한다.
 - 나머지는 맨 위 폴더의 CLAUDE.md 를 따른다.
